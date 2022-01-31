@@ -1,6 +1,6 @@
 # ECS Service Auto Scaling Article Code
 
-This is the code sample to accompany the article at http://distilledcourses.com/blog/ecs-service-auto-scaling-with-the-cdk
+Demo ECS Service Auto Scaling with the CDK and Fargate.
 
 Branches:
 
